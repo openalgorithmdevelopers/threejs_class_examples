@@ -4,8 +4,8 @@ module.exports = {
     // entry: './src/client/client.ts',
     //entry: './src/client/displacement_map.ts',
     //entry: './src/client/texture_example.ts',
-    // entry: './src/client/externalModel.ts',
-    entry: './src/client/dualCamera.ts',
+    entry: './src/client/externalModel.ts',
+    // entry: './src/client/dualCamera.ts',
     // entry: './src/client/physics.ts',
     module: {
         rules: [
